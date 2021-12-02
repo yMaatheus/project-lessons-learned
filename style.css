@@ -58,6 +58,14 @@ main {
     padding: 3% 5%;
 }
 
+#licoesAprendidas {
+    margin-left: 10%;
+}
+
+#LicoesAprender {
+    margin-left: 1%;
+}
+
 .lado-esquerdo ul, .lado-esquerdo ol {
     list-style: none;
 }
